@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Root",
+			"path": "."
+		},
+		{
+			"name": "Lab01",
+			"path": "Lab01"
+		},
+		{
+			"name": "Lab02",
+			"path": "Lab02"
+		}
+	],
+	"settings": 
+	{
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/Lab*": true,
+		}
+	}
+}
