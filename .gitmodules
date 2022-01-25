@@ -1,3 +1,6 @@
 [submodule "Lab02"]
 	path = Lab02
 	url = https://github.com/EECE4263-S2022/lab02-LU-Zach
+[submodule "Lab01"]
+	path = Lab01
+	url = https://github.com/EECE4263-S2022/lab01-LU-Zach
