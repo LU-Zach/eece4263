@@ -27,6 +27,11 @@
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
 			"**/Lab*": true,
+		},
+		"files.associations": {
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"streambuf": "cpp"
 		}
 	}
 }
