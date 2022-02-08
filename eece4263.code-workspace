@@ -31,7 +31,23 @@
 		"files.associations": {
 			"iosfwd": "cpp",
 			"limits": "cpp",
-			"streambuf": "cpp"
+			"streambuf": "cpp",
+			"algorithm": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"queue": "cpp",
+			"ranges": "cpp",
+			"set": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"vector": "cpp"
 		}
 	}
 }
