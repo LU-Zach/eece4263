@@ -20,6 +20,10 @@
 		{
 			"name": "Lab04",
 			"path": "Lab04"
+		},
+		{
+			"name": "Lab05",
+			"path": "Lab05"
 		}
 	],
 	"settings": 
@@ -57,4 +61,4 @@
 	}
 }
 
-//git submodule update --init --recursive
+//git submodule add https://github.com/EECE4263-S2022/lab05-LU-Zach Lab05
