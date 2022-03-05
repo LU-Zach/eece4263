@@ -61,4 +61,10 @@
 	}
 }
 
+<<<<<<< HEAD
 //git submodule add https://github.com/EECE4263-S2022/lab05-LU-Zach Lab05
+=======
+//git submodule init <remote path> <local path>
+//git submodule add <remote path> <local path>
+//git submodule update --init --recursive
+>>>>>>> 6735703ecca95915afa8f5d52f67f3c85ad6640a
