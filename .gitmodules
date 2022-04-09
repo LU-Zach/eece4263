@@ -16,3 +16,6 @@
 [submodule "Lab06"]
 	path = Lab06
 	url = https://github.com/EECE4263-S2022/lab06-LU-Zach
+[submodule "LabFinal"]
+	path = LabFinal
+	url = https://github.com/EECE4263-S2022/finalproject-LU-Zach.git
